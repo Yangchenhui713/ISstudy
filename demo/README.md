@@ -1,0 +1,1 @@
+L1  Cli Demo 部署 InternLM2-Chat-1.8B 模型
